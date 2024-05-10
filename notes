@@ -1,0 +1,2 @@
+start android emulator in android-studio
+npm run tauri android dev
